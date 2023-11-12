@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning C and frameworks 
 - 📫 How to reach me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
