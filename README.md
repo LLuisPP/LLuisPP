@@ -6,8 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
-  [![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
-  ![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
+![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
 Some technologies I use:
 https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
