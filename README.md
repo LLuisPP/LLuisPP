@@ -4,7 +4,7 @@
   
 - Meanwhile I keep learning C and frameworks:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P)
 
 Some technologies I use:
 
