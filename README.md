@@ -1,12 +1,14 @@
 <img width="1362" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e553dbe-c090-4e4c-80de-4ecabbf6dfd1">
-- 🔭 I’m currently searching for job as a developer or cybersecurity. Meanwhile I keep learning C and frameworks 
+
+- 🔭 I’m currently searching for job as a developer or cybersecurity. Meanwhile I keep learning C and frameworks
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/LLuisPP/github-readme-stats)
 [![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
 Some technologies I use:
-![image]({[BadgeURLHere](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+![image]({[](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 )})
 ![image]({[BadgeURLHere](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
 )})
@@ -18,7 +20,8 @@ Some technologies I use:
 )})
 ![image]({[BadgeURLHere](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 )})
-![image]({BadgeURLHere})
+![image]({https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
