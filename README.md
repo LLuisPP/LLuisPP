@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
 Some technologies I use:
 https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
