@@ -1,4 +1,3 @@
-<img width="1362" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e553dbe-c090-4e4c-80de-4ecabbf6dfd1">
 <img width="1011" alt="Captura de pantalla 2023-11-12 a las 19 31 30" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6bac053a-f565-4f35-a57b-14f0aa916d0a">
 
 - 🔭 I’m currently searching for job as a developer or cybersecurity.
