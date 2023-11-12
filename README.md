@@ -1,4 +1,4 @@
-<img width="993" alt="Captura de pantalla 2023-11-12 a las 16 46 34" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/92b5561e-e814-46fb-b22b-7261d8393be5">
+<img width="1362" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e553dbe-c090-4e4c-80de-4ecabbf6dfd1">
 
 
 <!--
