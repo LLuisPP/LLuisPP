@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently searching for job as a developer or cybersecurity.
 - Meanwhile I keep learning C and frameworks:
-- ![[image](https://github.com/LLuisPP/LLuisPP/assets/116104082/8d7032a7-646b-418f-a4b1-a956cb75e010)
-- <img height="300" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/8d7032a7-646b-418f-a4b1-a956cb75e010">
+![[image](https://github.com/LLuisPP/LLuisPP/assets/116104082/8d7032a7-646b-418f-a4b1-a956cb75e010)
+<img height="300" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/8d7032a7-646b-418f-a4b1-a956cb75e010">
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)]
