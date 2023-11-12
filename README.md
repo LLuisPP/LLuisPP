@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning C and frameworks 
 - 📫 How to reach me:
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
+
 Some technologies I use:
 https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
