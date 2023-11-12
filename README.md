@@ -4,8 +4,9 @@
 - Meanwhile I keep learning C and frameworks:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)
-![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 <img width="220" alt="Captura de pantalla 2023-11-12 a las 19 24 26" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/f852b29a-e15d-48cd-b52a-2c552ba65b60">
+![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
+
 
 Some technologies I use:
 
