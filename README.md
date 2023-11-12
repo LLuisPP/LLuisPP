@@ -1,6 +1,6 @@
 <img width="1011" alt="Captura de pantalla 2023-11-12 a las 19 31 30" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6bac053a-f565-4f35-a57b-14f0aa916d0a">
 
-- 🔭 I’m currently searching for job as a developer or cybersecurity.
+- 🔭 I’m currently searching for job as a developer and cybersecurity.
   
 - Meanwhile I keep learning C and frameworks:
 
