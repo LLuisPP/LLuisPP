@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Githubheader](https://github.com/LLuisPP/LLuisPP/assets/116104082/dc09ae22-22b6-48bf-9d4d-808da26199cf)
+<img width="993" alt="Captura de pantalla 2023-11-12 a las 16 46 34" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/92b5561e-e814-46fb-b22b-7261d8393be5">
+
 
 <!--
 **LLuisPP/LLuisPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
