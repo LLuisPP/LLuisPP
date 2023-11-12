@@ -3,7 +3,7 @@
 - 🔭 I’m currently searching for job as a developer or cybersecurity
 - 🌱 I’m currently learning C and frameworks 
 - 📫 How to reach me:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/LLuisPP/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
 ![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
