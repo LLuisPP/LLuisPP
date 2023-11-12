@@ -1,9 +1,8 @@
 <img width="1362" alt="GitHubHeader" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e553dbe-c090-4e4c-80de-4ecabbf6dfd1">
 - 🔭 I’m currently searching for job as a developer or cybersecurity. Meanwhile I keep learning C and frameworks 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/LLuisPP/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/LLuisPP/github-readme-stats)
 [![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
 Some technologies I use:
