@@ -3,9 +3,8 @@
 - 🔭 I’m currently searching for job as a developer or cybersecurity. Meanwhile I keep learning C and frameworks
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP)](https://github.com/LLuisPP/github-readme-stats)
-[![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&layout=compact)
+![LLuisPP's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuisPP&show_icons=true&theme=transparent)
 
 Some technologies I use:
 ![image]({[](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
