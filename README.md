@@ -10,10 +10,10 @@
 
 - ⚡ LinkedIn: **<a href="https://linkedin.com/in/luisprietopedregal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisprietopedregal" height="30" width="40" />**
 
-<p><h4 align="center">Current student at Barcelona's 42 School:</h4><img  align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
+<p><h4 align="left">Current student at Barcelona's 42 School:</h4><img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
 <p>
-<img width="400" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
+<img align="center" width="400" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
 </p>
 <h3 align="left">Some technologies I use:</h3>
 
