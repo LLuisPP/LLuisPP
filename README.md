@@ -9,7 +9,7 @@
 
 <h4 align="left">Connect:</h4>
 <p align="left">
-- 📫 How to reach me **lmprped@gmail.com**  
+- 📫 How to reach me **lmprped@gmail.com**
 <a href="https://linkedin.com/in/luisprietopedregal" target="blank">LinkedIn: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisprietopedregal" height="30" width="40" /></a>
 </p>
   
@@ -68,7 +68,7 @@ Some technologies I use:
 
 - 📫 How to reach me **lmprped@gmail.com**
 
-- ⚡ Fun fact **perma-learn behavior**
+- ⚡ LinkedIn: **<a href="https://linkedin.com/in/luisprietopedregal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisprietopedregal" height="30" width="40" />**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
