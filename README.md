@@ -5,10 +5,8 @@
 <h4 align="left">About me:</h4><p align="left">
   
 - 🌱 I’m currently learning **C, Frameworks, Cibersecurity, Python, SQL**
-
-- 📫 How to reach me **lmprped@gmail.com**
-
-- ⚡ LinkedIn: **<a href="https://linkedin.com/in/luisprietopedregal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisprietopedregal" height="30" width="40" />**
+- Tech enthusiast
+- Learn to improve
 
 <p><h4 align="left">Current student at Barcelona's 42 School:</h4><img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
 <p>
