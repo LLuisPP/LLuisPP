@@ -12,8 +12,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /> </p>  
 <h4 align="left">Current student at Barcelona's 42 School:</h4>
 
-<img width="400" alt="Captura de pantalla 2023-11-12 a las 19 24 26" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" /></p>
+<img width="400" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
 
 <h3 align="left">Some technologies I use:</h3>
 
