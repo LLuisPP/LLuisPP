@@ -20,6 +20,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /> </p>
 
 <h3 align="left">Some technologies I use:</h3>
+<h4 align="left">Some technologies I use:</h4>
 
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
