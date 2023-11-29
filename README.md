@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Luis Prieto</h1>
+<h1 align="center">Hi 👋, my name is Luis Prieto</h1>
 <h3 align="left">A passionate developer from Spain</h3
 <img width="1011" alt="Captura de pantalla 2023-11-12 a las 19 31 30" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6bac053a-f565-4f35-a57b-14f0aa916d0a">
 <h4 align="left">About me:</h4><p align="left">
@@ -10,7 +10,7 @@
 
 - ⚡ LinkedIn: **<a href="https://linkedin.com/in/luisprietopedregal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisprietopedregal" height="30" width="40" />**
 
-<p><h4 align="left">Current student at Barcelona's 42 School:</h4><img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
+<p><h4 align="center">Current student at Barcelona's 42 School:</h4><img  align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
 <p>
 <img width="400" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
