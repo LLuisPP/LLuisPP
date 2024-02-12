@@ -1,11 +1,10 @@
 
 <h1 align="left">Hi 👋, my name is Luis Prieto</h1>
-<h3 align="left">A passionate developer from Spain</h3
+<h3 align="left">A passionate code developer from Spain</h3
 <img width="1011" alt="Captura de pantalla 2023-11-12 a las 19 31 30" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6bac053a-f565-4f35-a57b-14f0aa916d0a">
 <h4 align="left">About me:</h4><p align="left">
   
 - 🌱 I’m currently learning **C, Frameworks, Cibersecurity, Python, SQL**
-- Tech enthusiast
 - Learn to improve
 
 <p><h4 align="left">Current student at Barcelona's 42 School:</h4><img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
