@@ -1,5 +1,5 @@
 
-<h1 align="left">Welcome to my workshop</h1>
+<h1 align="left">Welcome to my workshop 🔨</h1>
 
 With a long background in chemistry lab, industry R&D center and Health & Safety services, I'm commited in transformming my passion for programming into a profession. Focused and specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining my programming skills at 42, so... let's collaborate on building cutting-edge applications.
 
@@ -7,9 +7,6 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
   - 🌱 Constantly delving into **C, Frameworks, Cybersecurity, Python and SQL**
   - 🚀 On a mission to master and innovate
 
-    |42 School|Expertise|Stats|
-    |:---|:---|:---|
-    |<img align="center" width="260" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">|<img align="center" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
 ## Actually learning or improving:
 
@@ -28,10 +25,15 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+   
+|42 Programming School|Expertise|Stats|
+|:---|:---|:---|
+|<img align="center" width="260" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">|<img align="center" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 </p>
 
+## Projects
 
-<h3 align="left">42 Barcelona Projects Overview:</h3>
+<h3 align="left">42 programming School Projects Overview:</h3>
 
 ||Project|Lvl|Description|100|125|Date|
 |:---|:---|:---|:---|:---|:---|:---|
@@ -51,11 +53,11 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 <h3 align="left">Webs and Apps:</h3>
 <h4 align="left">Fast views:</h4>
 
-|Type|Smbl|Link|Description|Date|
-|:---|:---|:---|:---|:---|
-|📱|🎸|[Music_chords](https://musicaltoolstabs.web.app/)|Small chord guessing game to promote a nice website.|Mar'24|
-|📱|📃|[ColNotApp](https://colnotapp.web.app/)|  Collaborative notes app for personal use with loads of options.|Jun'23|
-|🌐|🌔|[MoonQuake](https://moonquakev2.onrender.com/)|  Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
+|Type|Link|Description|Date|
+|---|---|:---|---|
+|📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
+|📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
+|🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
 <table>
   <tr>
     <td colspan="2" align="center">Mobile Apps</td>
