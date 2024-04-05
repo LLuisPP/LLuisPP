@@ -36,28 +36,30 @@
 
 
 <h3 align="left">42 Barcelona Projects Overview:</h3>
+
+|Ico|Project|Lvl|Description|100|125|Sample|
+|:---|:---|:---|:---|:---|:---|:---|
+|📖|[libft](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| A project aimed at replicating essential functions from the C library.|✅|✅|sample|
+|🐧|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine.|✅|❌|sample|
+|🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C.|✅|❌|sample|
+|📝|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line.|✅|✅|sample|
+|🔖|Rank 02 exam| :godmode:|Test to proof your learning|❌|--|--|
+|🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions.|✅|❌|sample|
+|🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project.|✅|❌|sample|
+|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads.|❌|❌|sample|
+
+<br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>
+
 <p>
-  
-  - 📖 [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft) :suspect:: A project aimed at replicating essential functions from the C library.<br>
-  - 🐧 [born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot) :rage4:: setting up and configuration of a linux virtual machine.<br>
-  - 🖨 [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf) :hurtrealbad:: Implementation of the printf function in C.<br>
-  - 📝 [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line) :rage2:: A utility to read from a file descriptor line by line.<br>
-  - 🔖 Rank 02 exam :godmode:
-  - 🔢 [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap) :feelsgood:: Sort numbers in a stack efficiently using a limited set of instructions.<br>
-  - 🌀 [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol) :goberserk:: Dive into 2D fractal generator with this project.<br>
-  - ➰ [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex) :finnadie:: A project to manage child processes with forks and threads.<br>
-  <img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>
-</p>
+
 <h3 align="left">Webs and Apps:</h3>
 <h4 align="left">Fast views:</h4>
 <table>
   <tr>
-    <th>42 Cursus</th>
     <td colspan="2" align="center">Mobile Apps</td>
     <th>MoonRockers</th>
   </tr>
   <tr>
-    <td rowspan="2" align="center"><img align="center" width="270" height="230" src="https://github.com/LLuisPP/42Cursus/assets/116104082/dc4792ac-e9f0-4a16-9d82-863e37529b4e"></td>
     <td>Music Chords</td>
     <td>Collab Notes</td>
     <td rowspan="2" align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
@@ -68,15 +70,16 @@
   </tr>
 </table>
 
-🌐 - [🌔 MoonQuake](https://moonquakev2.onrender.com/):<br>
-  Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.<br>
 📱 - [🎸 Music_chords](https://musicaltoolstabs.web.app/):<br>
   Small chord guessing game to promote a nice website.<br>
 📱 - [📃 ColNotApp](https://colnotapp.web.app/):<br>
   Collaborative notes app for personal use with loads of options.<br>
   <br>
+🌐 - [🌔 MoonQuake](https://moonquakev2.onrender.com/):<br>
+  Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.<br>
   
 
   Contact <img align="center" width="130" url="https://github.com/LLuisPP/LLuisPP/assets/116104082/90506f70-592c-448e-9d74-0e928cca9109">
  <lmprped@gemail.com><br>
   Last Update Apr @2024<br>
+
