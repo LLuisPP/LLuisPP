@@ -44,14 +44,14 @@
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 42 Barcelona Projects Overview:
-  - 📖 [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft) :suspect:: A project aimed at replicating essential functions from the C library.
-  - 🐧 [born2beRoot]() :rage4:: setting up and configuration of a linux virtual machine.
-  - 🖨 [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf) :hurtrealbad:: Implementation of the printf function in C.
-  - 📝 [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line) :rage2:: A utility to read from a file descriptor line by line.
-  - 🔖 Rank 02 exam :godmode:
-  - 🔢 [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap) :feelsgood:: Sort numbers in a stack efficiently using a limited set of instructions.
-  - 🌀 [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol) :goberserk:: Dive into 2D fractal generator with this project.
-  - ➰ [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex) :finnadie:: A project to manage child processes with forks and threads. 
+  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.
+  - 🐧 :rage4: [born2beRoot](): setting up and configuration of a linux virtual machine.
+  - 🖨 :hurtrealbad: [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf): Implementation of the printf function in C.
+  - 📝 :rage2: [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line): A utility to read from a file descriptor line by line.
+  - 🔖 :godmode: Rank 02 exam
+  - 🔢 :feelsgood: [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap): Sort numbers in a stack efficiently using a limited set of instructions.
+  - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.
+  - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads. 
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
