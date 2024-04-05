@@ -52,7 +52,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 <h3 align="left">Webs and Apps Development:</h3>
 
-|Type|Link|Description|Date|
+||Link|Description|Date|
 |---|---|:---|---|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
