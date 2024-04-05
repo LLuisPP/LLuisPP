@@ -2,11 +2,7 @@
 <h1 align="left">Hi 👋, my name is Luis Prieto, your friendly code wizard 🧙‍♂️</h1>
 <h3 align="left">A code artisan weaving digital dreams from sunny Spain 🌞✨</h3>
 
-  🔬 With a multifaceted background spanning laboratory chemistry, R&D in steelmaking, and Health & Safety Services, I've embarked on a journey to transform my post-COVID passion for programming into a profession.
-
-  💻 Specializing in hybrid mobile app development with Ionic and Angular, and fueled by a deep interest in cybersecurity, my repositories showcase a fusion of innovation and security best practices. Additionally, I'm currently honing my skills at 42,   an esteemed self-taught programming school.
-
-  🛡️ Join me in exploring the dynamic intersection of software development and cybersecurity. Together, let's build resilient, cutting-edge applications while safeguarding against emerging threats and vulnerabilities.
+🔬 With a background in laboratory chemistry, R&D, and Health & Safety Services, I've transformed my post-COVID passion for programming into a profession. 💻 Specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining skills at 42, let's collaborate on building cutting-edge applications while addressing emerging cyber threats.
 
 <h4 align="left">🧠 About me:</h4><p align="left">
   
