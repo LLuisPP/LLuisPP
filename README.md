@@ -46,10 +46,10 @@
   - 🔢 [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap) :feelsgood:: Sort numbers in a stack efficiently using a limited set of instructions.<br>
   - 🌀 [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol) :goberserk:: Dive into 2D fractal generator with this project.<br>
   - ➰ [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex) :finnadie:: A project to manage child processes with forks and threads.<br>
+  <img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>
 </p>
 <h3 align="left">Webs and Apps:</h3>
-<p>
-<h4 align="left">Fast views:</h4><br>
+<h4 align="left">Fast views:</h4>
 <table>
   <tr>
     <th>42 Cursus</th>
@@ -75,9 +75,8 @@
 📱 - [📃 ColNotApp](https://colnotapp.web.app/):<br>
   Collaborative notes app for personal use with loads of options.<br>
   <br>
-  All code written
-  <img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
-  by [@LLuisPP](https://www.github.com/LLuisPP)<br>
-  Last Update Apr @2024<br>
+  
 
-</p>
+  Contact <img align="center" width="130" url="https://github.com/LLuisPP/LLuisPP/assets/116104082/90506f70-592c-448e-9d74-0e928cca9109">
+ <lmprped@gemail.com><br>
+  Last Update Apr @2024<br>
