@@ -24,10 +24,6 @@
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ^
-![image](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![image](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -40,18 +36,7 @@
 ![image](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![image](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-42 Barcelona Projects Overview:
-  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.
-  - 🐧 :rage4: [born2beRoot](): setting up and configuration of a linux virtual machine.
-  - 🖨 :hurtrealbad: [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf): Implementation of the printf function in C.
-  - 📝 :rage2: [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line): A utility to read from a file descriptor line by line.
-  - 🔖 :godmode: Rank 02 exam
-  - 🔢 :feelsgood: [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap): Sort numbers in a stack efficiently using a limited set of instructions.
-  - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.
-  - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads. 
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -71,6 +56,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+42 Barcelona Projects Overview:
+  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.
+  - 🐧 :rage4: [born2beRoot](): setting up and configuration of a linux virtual machine.
+  - 🖨 :hurtrealbad: [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf): Implementation of the printf function in C.
+  - 📝 :rage2: [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line): A utility to read from a file descriptor line by line.
+  - 🔖 :godmode: Rank 02 exam
+  - 🔢 :feelsgood: [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap): Sort numbers in a stack efficiently using a limited set of instructions.
+  - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.
+  - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads.
+<br>
 🌐 NASA Space APP Challenge: [SpaceRockers](https://moonquakev2.onrender.com/)
 📱 Guess the: [Music Chords](https://musicaltoolstabs.web.app/)
 📱 Collab notes: [ColNotApp](https://colnotapp.web.app/)<br>
