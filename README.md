@@ -75,7 +75,9 @@
 📱 - [📃 ColNotApp](https://colnotapp.web.app/):<br>
   Collaborative notes app for personal use with loads of options.<br>
   <br>
-  All code written by [@LLuisPP](https://www.github.com/LLuisPP) / Last Update Apr @2024<br>
+  All code written
   <img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
+  by [@LLuisPP](https://www.github.com/LLuisPP)<br>
+  Last Update Apr @2024<br>
 
 </p>
