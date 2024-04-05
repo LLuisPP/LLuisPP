@@ -67,5 +67,5 @@
 
 <img align="left" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622">
 <img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
-<img align="left" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/d96812eb-e4b0-49c9-a46e-b90cb4e09bb9">
+<img align="right" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9">
 
