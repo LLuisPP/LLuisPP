@@ -34,7 +34,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+
 <h3 align="left">42 Barcelona Projects Overview:</h3>
+<p>
+  
   - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.<br>
   - 🐧 :rage4: [born2beRoot](): setting up and configuration of a linux virtual machine.<br>
   - 🖨 :hurtrealbad: [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf): Implementation of the printf function in C.<br>
@@ -43,16 +46,37 @@
   - 🔢 :feelsgood: [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap): Sort numbers in a stack efficiently using a limited set of instructions.<br>
   - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.<br>
   - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads.<br>
-<br>
+</p>
 <h3 align="left">Webs and Apps:</h3>
-<h4 align="left">NASA Space App Challenge 2023 - Moonquake Project:</h4>
-  - 🌐 A simple website created in less than 48h in a worldwide challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
+<p>
+<h4 align="left">Web:</h4>
+<p>  
+🌐 NASA Space App Challenge 2023 - Moonquake Project:
+  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.<br>
+  [SpaceRockers](https://moonquakev2.onrender.com/)
+  	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+  A simple website created in less than 48h in a worldwide challenge
+</p>
+</p>
 <h4 align="left">Mobile Apps:</h4>
 - 🎸 Small chord guessing game to promote a nice website: [Music_chords](https://musicaltoolstabs.web.app/) <br>
 - 📃 Collaborative notes app for personal use with loads of options: [ColNotApp](https://colnotapp.web.app/)<br>
+[@LLuisPP](https://www.github.com/LLuisPP)
 <h4 align="left">Fast views:</h4><br>
-<img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622">
-<img align="center" width="270" height="272" src="https://github.com/LLuisPP/42Cursus/assets/116104082/dc4792ac-e9f0-4a16-9d82-863e37529b4e">
-<img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
-<img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9">
-<br>
+<table>
+  <tr>
+    <th>42 Cursus</th>
+    <td colspan="2" align="center">Mobile Apps</td>
+    <th>MoonRockers</th>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><img align="center" width="270" height="272" src="https://github.com/LLuisPP/42Cursus/assets/116104082/dc4792ac-e9f0-4a16-9d82-863e37529b4e"></td>
+    <td>Music Chords</td>
+    <td>Collab Notes</td>
+    <td rowspan="2" align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
+  </tr>
+  <tr>
+    <td><img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3"></td>
+    <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
+  </tr>
+</table>
