@@ -1,19 +1,17 @@
 
-<h1 align="left">Hi 👋, my name is Luis Prieto, your friendly code wizard 🧙‍♂️</h1>
-<h3 align="left">A code artisan weaving digital dreams from sunny Spain 🌞✨</h3>
+<h1 align="left">Welcome to my workshop</h1>
 
-🔬 With a background in chemistry lab, industry R&D center and Health & Safety services, I've transformed my post-COVID passion for programming into a profession. 💻 Focused and specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining my programming skills at 42, so... let's collaborate on building cutting-edge applications.
+With a long background in chemistry lab, industry R&D center and Health & Safety services, I'm commited in transformming my passion for programming into a profession. Focused and specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining my programming skills at 42, so... let's collaborate on building cutting-edge applications.
 
-<h4 align="left">🧠 About me:</h4><p align="left">
-  
-  - 🌱 Constantly delving into **C, Frameworks, Cybersecurity, Python, SQL**
+
+  - 🌱 Constantly delving into **C, Frameworks, Cybersecurity, Python and SQL**
   - 🚀 On a mission to master and innovate
 
     |42 School|Expertise|Stats|
     |:---|:---|:---|
     |<img align="center" width="260" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">|<img align="center" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
-<h4 align="left">A sample of technologies I use:</h4>
+## Actually learning or improving:
 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
