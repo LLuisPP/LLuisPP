@@ -50,13 +50,19 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 <p>
 
-<h3 align="left">Webs and Apps Development:</h3>
+<h3 align="left">App Development:</h3>
 
 ||Link|Description|Date|
 |---|---|:---|---|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
+
+<h3 align="left">Web Development:</h3>
+
+||Link|Description|Date|
+|---|---|:---|---|
 |🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
+
 
 - Fast views:
 
