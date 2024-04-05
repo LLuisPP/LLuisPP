@@ -38,30 +38,17 @@
 <h3 align="left">42 Barcelona Projects Overview:</h3>
 <p>
   
-  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.<br>
-  - 🐧 :rage4: [born2beRoot](): setting up and configuration of a linux virtual machine.<br>
-  - 🖨 :hurtrealbad: [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf): Implementation of the printf function in C.<br>
-  - 📝 :rage2: [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line): A utility to read from a file descriptor line by line.<br>
-  - 🔖 :godmode: Rank 02 exam
-  - 🔢 :feelsgood: [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap): Sort numbers in a stack efficiently using a limited set of instructions.<br>
-  - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.<br>
-  - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads.<br>
+  - 📖 [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft) :suspect:: A project aimed at replicating essential functions from the C library.<br>
+  - 🐧 [born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot) :rage4:: setting up and configuration of a linux virtual machine.<br>
+  - 🖨 [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf) :hurtrealbad:: Implementation of the printf function in C.<br>
+  - 📝 [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line) :rage2:: A utility to read from a file descriptor line by line.<br>
+  - 🔖 Rank 02 exam :godmode:
+  - 🔢 [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap) :feelsgood:: Sort numbers in a stack efficiently using a limited set of instructions.<br>
+  - 🌀 [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol) :goberserk:: Dive into 2D fractal generator with this project.<br>
+  - ➰ [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex) :finnadie:: A project to manage child processes with forks and threads.<br>
 </p>
 <h3 align="left">Webs and Apps:</h3>
 <p>
-<h4 align="left">Web:</h4>
-<p>  
-🌐 NASA Space App Challenge 2023 - Moonquake Project:
-  - 📖 :suspect: [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft): A project aimed at replicating essential functions from the C library.<br>
-  [SpaceRockers](https://moonquakev2.onrender.com/)
-  	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
-  A simple website created in less than 48h in a worldwide challenge
-</p>
-</p>
-<h4 align="left">Mobile Apps:</h4>
-- 🎸 Small chord guessing game to promote a nice website: [Music_chords](https://musicaltoolstabs.web.app/) <br>
-- 📃 Collaborative notes app for personal use with loads of options: [ColNotApp](https://colnotapp.web.app/)<br>
-[@LLuisPP](https://www.github.com/LLuisPP)
 <h4 align="left">Fast views:</h4><br>
 <table>
   <tr>
@@ -70,7 +57,7 @@
     <th>MoonRockers</th>
   </tr>
   <tr>
-    <td rowspan="2" align="center"><img align="center" width="270" height="272" src="https://github.com/LLuisPP/42Cursus/assets/116104082/dc4792ac-e9f0-4a16-9d82-863e37529b4e"></td>
+    <td rowspan="2" align="center"><img align="center" width="270" height="230" src="https://github.com/LLuisPP/42Cursus/assets/116104082/dc4792ac-e9f0-4a16-9d82-863e37529b4e"></td>
     <td>Music Chords</td>
     <td>Collab Notes</td>
     <td rowspan="2" align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
@@ -80,3 +67,15 @@
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
   </tr>
 </table>
+
+🌐 - [🌔 MoonQuake](https://moonquakev2.onrender.com/):<br>
+  Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.<br>
+📱 - [🎸 Music_chords](https://musicaltoolstabs.web.app/):<br>
+  Small chord guessing game to promote a nice website.<br>
+📱 - [📃 ColNotApp](https://colnotapp.web.app/):<br>
+  Collaborative notes app for personal use with loads of options.<br>
+  <br>
+  All code written by [@LLuisPP](https://www.github.com/LLuisPP) / Last Update Apr @2024<br>
+  <img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
+
+</p>
