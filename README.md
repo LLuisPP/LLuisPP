@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, my name is Luis Prieto, your friendly code wizard 🧙‍♂️</h1>
 <h3 align="left">A code artisan weaving digital dreams from sunny Spain 🌞✨</h3>
 
-  🔬 With a multifaceted background spanning laboratory chemistry, R&D in steelmaking, and safety management at Correos, I've embarked on a journey to transform my post-COVID passion for programming into a profession.
+  🔬 With a multifaceted background spanning laboratory chemistry, R&D in steelmaking, and Health & Safety Services, I've embarked on a journey to transform my post-COVID passion for programming into a profession.
 
   💻 Specializing in hybrid mobile app development with Ionic and Angular, and fueled by a deep interest in cybersecurity, my repositories showcase a fusion of innovation and security best practices. Additionally, I'm currently honing my skills at 42,   an esteemed self-taught programming school.
 
@@ -17,7 +17,7 @@
   <p>
     <img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
     <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
-    <img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" />
   </p>
 <h4 align="left">A sample of technologies I use:</h4>
 
@@ -61,10 +61,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-NASA Space APP Challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
-Guess the chord game mobile app: [Music Chords](https://musicaltoolstabs.web.app/)<br>
-Collaborative note mobile app: [ColNotApp](https://colnotapp.web.app/)<br>
+🌐 NASA Space APP Challenge: [SpaceRockers](https://moonquakev2.onrender.com/)
+📱 Guess the: [Music Chords](https://musicaltoolstabs.web.app/)
+📱 Collab notes: [ColNotApp](https://colnotapp.web.app/)<br>
 
-<img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/625470a2-b6c0-42ae-a78f-e9f7817afe04">
-<img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
+<img align="left" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622">
+<img align="left" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/625470a2-b6c0-42ae-a78f-e9f7817afe04">
+<img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
 
