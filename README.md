@@ -33,7 +33,9 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 ## Projects
 
-<h3 align="left">42 programming School Projects Overview:</h3>
+<h3 align="left">Software Development:</h3>
+
+- 42 programming School Projects Overview:
 
 ||Project|Lvl|Description|100|125|Date|
 |:---|:---|:---|:---|:---|:---|:---|
@@ -46,18 +48,18 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 |🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project.|✅|✅|Feb'24|
 |➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads.|❌|❌|--|
 
-<br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>
-
 <p>
 
-<h3 align="left">Webs and Apps:</h3>
-<h4 align="left">Fast views:</h4>
+<h3 align="left">Webs and Apps Development:</h3>
 
 |Type|Link|Description|Date|
 |---|---|:---|---|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
 |🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
+
+- Fast views:
+
 <table>
   <tr>
     <td colspan="2" align="center">Mobile Apps</td>
@@ -73,8 +75,3 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
   </tr>
 </table>
-
-Contact me at <lmprped@gemail.com>
-<br>
-  Last Update: Apr @2024<br>
-
