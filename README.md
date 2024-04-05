@@ -46,13 +46,11 @@
 <br>
 <h4 align="left">NASA Space App Challenge 2023 - Moonquake Project:</h4>
   - 🌐 Simple website created in 48h in a worldwide challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
+<h4 align="left">Mobile 📱 hybrid Apps:</h4>
+- 📃 Collaborative notes app for personal use with loads of options: [ColNotApp](https://colnotapp.web.app/)<br>
+  - 🎸 Small chord guessing game to promote a nice website: [Music_chords](https://musicaltoolstabs.web.app/) <br>
+  <h4 align="left">Mobile Previews:</h4><br>
 <img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622">
-<h4 align="left"> 📱 Mobile hybrid Apps:</h4>
-  - 🎸 Small chord guessing game to promote a nice website: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
-      📱 Guess the: [Music Chords](https://musicaltoolstabs.web.app/)<br>
-<img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3"><br>
-
-- 🎸 Collaborative notes app for personal use with loads of options:<br>
-      📱 Collab notes: [ColNotApp](https://colnotapp.web.app/)<br>
-<img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"><br>
+<img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
+<img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9">
 
