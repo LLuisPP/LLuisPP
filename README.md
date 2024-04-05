@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning **C, Frameworks, Cibersecurity, Python, SQL**
 - Learn to improve
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" /><br>
 <p><h4 align="left">Current student at Barcelona's 42 School:</h4><img  align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /></p>
 <p>
 <img align="center" width="400" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
 </p>
 <h4 align="left">Some technologies I use:</h4>
 
