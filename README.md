@@ -64,3 +64,7 @@
 NASA Space APP Challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
 Guess the chord game mobile app: [Music Chords](https://musicaltoolstabs.web.app/)<br>
 Collaborative note mobile app: [ColNotApp](https://colnotapp.web.app/)<br>
+
+<img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/625470a2-b6c0-42ae-a78f-e9f7817afe04">
+<img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
+
