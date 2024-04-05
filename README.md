@@ -9,12 +9,10 @@
   - 🌱 Constantly delving into **C, Frameworks, Cybersecurity, Python, SQL**
   - 🚀 On a mission to master and innovate
 
-<p><h4 align="left">Current student at Barcelona's 42 School:</h4></p>
-  <p>
-    <img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">
-    <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />
-    <img align="right" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" />
-  </p>
+    |42 School|Expertise|Stats|
+    |:---|:---|:---|
+    |<img align="center" width="260" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/27c2898d-c818-4080-8a11-a0a708b9ffa6">|<img align="center" width="240" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
+
 <h4 align="left">A sample of technologies I use:</h4>
 
 <p align="left">
@@ -37,16 +35,16 @@
 
 <h3 align="left">42 Barcelona Projects Overview:</h3>
 
-|Ico|Project|Lvl|Description|100|125|Sample|
-|:---|:---|:---|:---|:---|:---|:---|
-|📖|[libft](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| A project aimed at replicating essential functions from the C library.|✅|✅|sample|
-|🐧|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine.|✅|❌|sample|
-|🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C.|✅|❌|sample|
-|📝|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line.|✅|✅|sample|
+||Project|Lvl|Description|100|125|
+|:---|:---|:---|:---|:---|:---|
+|📖|[libft](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| A project aimed at replicating essential functions from the C library.|✅|✅|
+|🐧|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine.|✅|❌|
+|🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C.|✅|❌|
+|📝|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line.|✅|✅|
 |🔖|Rank 02 exam| :godmode:|Test to proof your learning|❌|--|--|
-|🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions.|✅|❌|sample|
-|🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project.|✅|❌|sample|
-|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads.|❌|❌|sample|
+|🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions.|✅|❌|
+|🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project.|✅|❌|
+|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads.|❌|❌|
 
 <br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>
 
