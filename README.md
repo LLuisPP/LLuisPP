@@ -44,12 +44,13 @@
   - 🌀 :goberserk: [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol): Dive into 2D fractal generator with this project.<br>
   - ➰ :finnadie: [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex): A project to manage child processes with forks and threads.<br>
 <br>
+<h3 align="left">Webs and Apps:</h3>
 <h4 align="left">NASA Space App Challenge 2023 - Moonquake Project:</h4>
-  - 🌐 Simple website created in 48h in a worldwide challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
-<h4 align="left">Mobile 📱 hybrid Apps:</h4>
+  - 🌐 A simple website created in less than 48h in a worldwide challenge: [SpaceRockers](https://moonquakev2.onrender.com/)<br>
+<h4 align="left">Mobile Apps:</h4>
 - 📃 Collaborative notes app for personal use with loads of options: [ColNotApp](https://colnotapp.web.app/)<br>
-  - 🎸 Small chord guessing game to promote a nice website: [Music_chords](https://musicaltoolstabs.web.app/) <br>
-  <h4 align="left">Mobile Previews:</h4><br>
+- 🎸 Small chord guessing game to promote a nice website: [Music_chords](https://musicaltoolstabs.web.app/) <br>
+  <h4 align="left">Fast views:</h4><br>
 <img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622">
 <img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3">
 <img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9">
