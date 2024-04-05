@@ -38,7 +38,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 - 42 programming School Projects Overview:
 
 ||Project|Lvl|Description|100|125|Date|
-|:---|:---|:---|:---|:---|:---|:---|
+|:---|---|:---|:---|:---|:---|---|
 |📖|[libft](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| A project aimed at replicating essential functions from the C library.|✅|✅|Sep'23|
 |🐧|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine.|✅|❌|Oct'23|
 |🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C.|✅|❌|Nov'23|
