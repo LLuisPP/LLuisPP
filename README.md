@@ -43,6 +43,16 @@
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
+42 Barcelona Projects Overview:
+  - 📖 [libft](https://github.com/LLuisPP/42Cursus/tree/main/libft) :suspect:: A project aimed at replicating essential functions from the C library.
+  - 🐧 [born2beRoot]() :rage4:: setting up and configuration of a linux virtual machine.
+  - 🖨 [ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf) :hurtrealbad:: Implementation of the printf function in C.
+  - 📝 [get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line) :rage2:: A utility to read from a file descriptor line by line.
+  - 🔖 Rank 02 exam :godmode:
+  - 🔢 [push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap) :feelsgood:: Sort numbers in a stack efficiently using a limited set of instructions.
+  - 🌀 [fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol) :goberserk:: Dive into 2D fractal generator with this project.
+  - ➰ [pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex) :finnadie:: A project to manage child processes with forks and threads. 
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
