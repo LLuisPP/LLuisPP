@@ -57,7 +57,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 ||||||||
 |🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions |✅|--|Feb'24|
 |🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |✅|✅|Feb'24|
-|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |▶️|❌|--|
+|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |▶️|--|--|
 ||||||||
 |🍽|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |--|--|--|
 |📦|minishell|:finnadie:| Replicate a bash terminal with complete behavior |--|--|--|
