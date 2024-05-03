@@ -41,7 +41,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 <h3 align="left">Software Development:</h3>
 
-- 42 programming School Projects Overview:
+- [Cursus 42](https://github.com/LLuisPP/42Cursus/tree/main/) programming School Projects Overview:
 
 <div align="center">
 
