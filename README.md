@@ -87,17 +87,19 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 <table>
   <tr>
-    <td colspan="2" align="center">Mobile Apps</td>
-    <th align="center">MoonRockers</th>
+    <td colspan="2" align="center">Hybrid Mobile Apps / PWA</td>
+    <td rowspan="4" align="center">
+    <th align="center">Web pages</th>
   </tr>
   <tr>
     <td align="center">Music Chords</td>
     <td align="center">Collab Notes</td>
-    <td rowspan="2" align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
+    <td align="center">MoonRockers</td>
   </tr>
   <tr>
     <td><img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3"></td>
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
+    <td align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
   </tr>
 </table>
 </div>
