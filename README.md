@@ -4,7 +4,7 @@
 With a long background in chemistry lab, industry R&D center and Health & Safety services, I'm commited in transformming my passion for programming into a profession. Focused and specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining my programming skills at 42, so... let's collaborate on building cutting-edge applications.
 
 
-  - 🌱 Constantly delving into **C, Frameworks, Cybersecurity, Python and SQL**
+  - 🌱 Constantly delving into **C, Frameworks, Systems, Cybersecurity, Python and SQL**
   - 🚀 On a mission to master and innovate
 
 
