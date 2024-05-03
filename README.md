@@ -25,17 +25,25 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+<div align="center">
    
 |<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
 |:---|:---|:---|
 |<a href="https://github.com/oakoudad/badge42"><img width="300" src="https://badge.mediaplus.ma/kettlebells/lprieto-?1337Badge=off&UM6P=off" alt="lprieto-'s 42 stats" /></a>|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
+
+</div>
+
 </p>
+
 
 ## Projects
 
 <h3 align="left">Software Development:</h3>
 
 - 42 programming School Projects Overview:
+
+<div align="center">
 
 ||Project|Lvl|Description|100|125|Date|
 |:---|---|:---|:---|:---|:---|---|
@@ -48,23 +56,34 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 |🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project.|✅|✅|Feb'24|
 |➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads.|❌|❌|--|
 
+</div>
+
 <p>
 
 <h3 align="left">App Development:</h3>
+
+<div align="center">
 
 ||Link|Description|Date|
 |---|---|:---|---|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
 
+</div>
+
 <h3 align="left">Web Development:</h3>
+
+<div align="center">
 
 ||Link|Description|Date|
 |---|---|:---|---|
 |🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
 
+</div>
 
 - Fast views:
+
+<div align="center">
 
 <table>
   <tr>
@@ -81,3 +100,4 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
   </tr>
 </table>
+</div>
