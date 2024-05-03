@@ -30,7 +30,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
    
 |<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
 |:---|:---|:---|
-|<a href="https://github.com/oakoudad/badge42"><img width="300" src="https://badge.mediaplus.ma/kettlebells/lprieto-?1337Badge=off&UM6P=off" alt="lprieto-'s 42 stats" /></a>|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
+|<img width="300" src="https://badge.mediaplus.ma/kettlebells/lprieto-?1337Badge=off&UM6P=off" alt="lprieto-'s 42 stats" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
 </div>
 
@@ -77,7 +77,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Created and presented in less than 48h in the global NASA Space App Challenge 2023 - SpaceRockers Team.|Oct'23|
+|🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Participating project at global NASA Space App Challenge 2023 - SpaceRockers Team|Oct'23|
 
 </div>
 
