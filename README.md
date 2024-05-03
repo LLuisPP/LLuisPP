@@ -26,7 +26,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
    
-|42 Programming School|Expertise|Stats|
+|<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
 |:---|:---|:---|
 |<a href="https://github.com/oakoudad/badge42"><img width="300" src="https://badge.mediaplus.ma/kettlebells/lprieto-?1337Badge=off&UM6P=off" alt="lprieto-'s 42 stats" /></a>|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 </p>
@@ -69,11 +69,11 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 <table>
   <tr>
     <td colspan="2" align="center">Mobile Apps</td>
-    <th>MoonRockers</th>
+    <th align="center">MoonRockers</th>
   </tr>
   <tr>
-    <td>Music Chords</td>
-    <td>Collab Notes</td>
+    <td align="center">Music Chords</td>
+    <td align="center">Collab Notes</td>
     <td rowspan="2" align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
   </tr>
   <tr>
