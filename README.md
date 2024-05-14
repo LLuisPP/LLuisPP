@@ -30,7 +30,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
    
 |<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
 |:---|:---|:---|
-|<img width="300" src="https://badge.mediaplus.ma/kettlebells/lprieto-?1337Badge=off&UM6P=off" alt="lprieto-'s 42 stats" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
+|<img width="260" src="https://github.com/LLuisPP/42Cursus/assets/116104082/a73b6542-e7f1-4b6b-b59b-7f841960c621" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&show_icons=true&locale=en&layout=compact" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
 </div>
 
