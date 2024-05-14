@@ -63,7 +63,6 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 |📦|minishell|:finnadie:| Replicate a bash terminal with complete behavior |--|--|--|
 ||||||||
 
-
 </div>
 
 <p>
