@@ -13,6 +13,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -73,7 +74,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|📱|[VB3 - ONCE]|✊ Kotlin 🤖 native, hand recognizer translator mobile app Awarded 🏆 2nd in ONCE/Scalian hackaton.|May'24|
+|📱|[VB3 - ONCE]|✊ Kotlin 🤖 native, hand recognizer translator. Awarded 🏆 2nd in ONCE/Scalian hackaton.|May'24|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
 
@@ -95,16 +96,19 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 <table>
   <tr>
+    <th align="center">Android Native</th>
     <td colspan="2" align="center">Hybrid Mobile Apps / PWA</td>
     <td rowspan="4" align="center">
     <th align="center">Web pages</th>
   </tr>
   <tr>
+    <td align="center">VimBrothers</td>
     <td align="center">Music Chords</td>
     <td align="center">Collab Notes</td>
     <td align="center">MoonRockers</td>
   </tr>
   <tr>
+    <td><img align="center" width="130" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/ad33c960-6b20-4874-9729-4f081d4efd06"/></td>
     <td><img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3"></td>
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
     <td align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
