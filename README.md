@@ -73,6 +73,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
 
 ||Link|Description|Date|
 |---|---|:---|---|
+|📱|[VB3 - ONCE]|✊ Kotlin 🤖 native, hand recognizer translator mobile app Awarded 🏆 2nd in ONCE/Scalian hackaton.|May'24|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
 
