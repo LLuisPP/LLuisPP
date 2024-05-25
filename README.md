@@ -10,7 +10,7 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 
 <p align="center">
     <a href="https://www.lpi.org/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" alt="linux" width="45" height="45"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
