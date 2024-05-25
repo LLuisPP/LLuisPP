@@ -1,12 +1,9 @@
+<img width="1277" alt="Captura de pantalla 2024-05-25 a las 12 19 45" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/92e372ef-b913-4d45-af4c-4b50d515ff4c">
 
-<h1 align="left">Welcome to my workshop 🔨</h1>
+I am deeply exploring the fundamentals of programming to enhance my skills in mobile app development, using both frameworks and native coding. My interest in cybersecurity is reflected in my repositories, which showcase innovative solutions with a focus on security.
 
-With a long background in chemistry lab, industry R&D center and Health & Safety services, I'm commited in transformming my passion for programming into a profession. Focused and specializing in hybrid mobile app development with Ionic and Angular, alongside a deep interest in cybersecurity, my repositories showcase innovative solutions keeping an eye on security. Currently refining my programming skills at 42, so... let's collaborate on building cutting-edge applications.
-
-
-  - 🌱 Constantly delving into **C, Frameworks, Systems, Cybersecurity, Python and SQL**
-  - 🚀 On a mission to master and innovate
-
+🌱 Constantly delving into C, Frameworks, Kotlin, Systems, Cybersecurity, Python, and SQL... <br>
+🚀 On a mission to master and innovate
 
 ## Actually learning or improving:
 
@@ -21,11 +18,7 @@ With a long background in chemistry lab, industry R&D center and Health & Safety
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <div align="center">
    
