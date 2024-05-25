@@ -10,7 +10,6 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 
 <p align="center">
     <a href="https://www.lpi.org/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.lpi.org/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/2a5113e2-e965-4023-8df3-c7ce025dab6d" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
