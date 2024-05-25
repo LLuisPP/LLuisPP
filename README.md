@@ -67,7 +67,7 @@ I am deeply exploring the fundamentals of programming to enhance my skills in mo
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|📱|[VB3 - ONCE]|✊ Kotlin 🤖 native, hand recognizer translator. Awarded 🏆 2nd in ONCE/Scalian hackaton.|May'24|
+|📱|[VB3 - ONCE](https://github.com/LLuisPP/ONCE-Scalian-42Bcn)|✊ Kotlin 🤖 native, hand recognizer translator. Awarded 🏆 2nd in ONCE/Scalian hackaton.|May'24|
 |📱|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|Mar'24|
 |📱|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|Jun'23|
 
