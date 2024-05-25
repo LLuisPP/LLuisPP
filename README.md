@@ -3,6 +3,7 @@
 Deeply exploring the fundamentals of programming to enhance my skills in app development, using frameworks and native coding.
 
 🌱 Constantly delving into C, Frameworks, Kotlin, Systems, Cybersecurity, Python, and SQL... <br>
+🐧 LPIC-1 certified Linux systems administrator
 🚀 On a mission to master and innovate
 
 ## Actually learning or improving:
