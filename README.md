@@ -80,7 +80,7 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 ||Link|Description|Date|
 |---|---|:---|---|
 |🌐|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Participating project at global NASA Space App Challenge 2023 - SpaceRockers Team|Oct'23|
-|🌐|[Mario_slot machine game](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|Oct'22|
+|🌐|[Mario slots game](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|Oct'22|
 
 </div>
 
