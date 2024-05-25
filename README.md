@@ -91,21 +91,29 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 <table>
   <tr>
     <th align="center">Android Native</th>
-    <td colspan="2" align="center">Hybrid Mobile Apps / PWA</td>
     <td rowspan="4" align="center">
-    <th align="center">Web pages</th>
+    <td colspan="2" align="center">Hybrid Mobile Apps / PWA</td>
   </tr>
   <tr>
     <td align="center">VimBrothers</td>
     <td align="center">Music Chords</td>
     <td align="center">Collab Notes</td>
-    <td align="center">MoonRockers</td>
   </tr>
   <tr>
     <td><img align="center" width="130" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/ad33c960-6b20-4874-9729-4f081d4efd06"/></td>
     <td><img align="center" width="130" height="272" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/c9200cb8-152f-4e56-9a9b-985766514eb3"></td>
     <td><img align="center" width="130" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/0e1bfb0f-00fb-44d9-aa55-aa2b391f8dd9"></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th align="center" colspan="3">Web pages</th>
+  </tr>
+  <tr>
     <td align="center"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></td>
+        <td rowspan="2" align="center">
+    <td align="center"><img align="center" width="240" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/20e8ebf7-0fb0-4c2c-97d9-8250ddd9b21f"></td>
   </tr>
 </table>
 </div>
