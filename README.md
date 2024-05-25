@@ -1,6 +1,6 @@
 <img width="1277" alt="Captura de pantalla 2024-05-25 a las 12 19 45" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/92e372ef-b913-4d45-af4c-4b50d515ff4c">
 
-Deeply exploring the fundamentals of programming to enhance my skills in app development, using both frameworks and native coding.
+Deeply exploring the fundamentals of programming to enhance my skills in app development, using frameworks and native coding.
 
 🌱 Constantly delving into C, Frameworks, Kotlin, Systems, Cybersecurity, Python, and SQL... <br>
 🚀 On a mission to master and innovate
