@@ -5,6 +5,9 @@ I am deeply exploring the fundamentals of programming to enhance my skills in mo
 🌱 Constantly delving into C, Frameworks, Kotlin, Systems, Cybersecurity, Python, and SQL... <br>
 🚀 On a mission to master and innovate
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLuisPP&hide=javascript,css,python,objective-c,scss,perl,makefile,shell,html&theme=tokyonight)
+
+
 ## Actually learning or improving:
 
 <p align="center">
