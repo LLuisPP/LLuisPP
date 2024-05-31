@@ -26,7 +26,7 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
    
 |<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
 |:---|:---|:---|
-|<img width="260" src="https://github.com/LLuisPP/42Cursus/assets/116104082/a73b6542-e7f1-4b6b-b59b-7f841960c621" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&hide=css,objective-c,scss,perl,html&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
+|<img width="260" src="https://github.com/LLuisPP/42Cursus/assets/116104082/e4718526-3e02-4477-89c1-a9c6dad4a066" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&hide=css,objective-c,scss,perl,html&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
 </div>
 
