@@ -49,14 +49,14 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 |🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C|✅|--|Nov'23|
 |📝|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |✅|✅|Dic'23|
 ||||||||
-|🔖|Rank 02 exam| :godmode:|Test to proof your learning|▶️|--|--|Feb'24|
+|🔖|Rank 02 exam| :godmode:|Test to proof your learning|▶️|50|May'24|
 ||||||||
 |🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions |✅|--|Feb'24|
 |🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |✅|✅|Feb'24|
-|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |▶️|--|--|
+|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |✅|--|May'24|
 ||||||||
-|🍽|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |--|--|--|
-|📦|minishell|:finnadie:| Replicate a bash terminal with complete behavior |--|--|--|
+|🍽|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
+|📦|minishell|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
 ||||||||
 
 </div>
