@@ -44,26 +44,26 @@
 
 ## Software Development:
 
-- **[42 - Common Core Cursus](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 programming School, Projects Overview:  <img align="right" src="https://img.shields.io/badge/Status-On%20going-darkgreen"> <br>
+- **[42 - Common Core Cursus](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | <img src="https://img.shields.io/badge/Level_3.21-lightgreen"> | Projects Overview: <img align="right" src="https://img.shields.io/badge/Status-On%20going-darkgreen"> <br>
 
 <div align="center">
 
-||Project|Lvl|Description|`100`|`125`|Date|
+||Project|Lvl|Description|100|125|Date|
 |:---|---|:---|:---|:---|:---|---|
-|`📖`|[**libft**](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| Replicating essential functions from the basic C library |✅|✅|`Sep'23`|
+|`📖`|[**libft**](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| Replicating essential functions from the basic C library |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/125-darkgreen">|`Sep'23`|
 ||||||||
-|`🐧`|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine |✅|--|`Oct'23`|
-|`🖨`|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C |✅|--|`Nov'23`|
-|`📝`|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |✅|✅|`Dic'23`|
+|`🐧`|[**born2beRoot**](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine |<img src="https://img.shields.io/badge/100-darkgreen">|--|`Oct'23`|
+|`🖨`|[**ft_printf**](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C |<img src="https://img.shields.io/badge/100-darkgreen">|--|`Nov'23`|
+|`📝`|[**get_next_line**](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/125-darkgreen">|`Dic'23`|
 ||||||||
-|`🔖`|Rank 02 exam| :godmode:|Test to proof your learning|▶️|75|`Jun'24`|
+|`🔖`|Rank 02 exam| :godmode:|4 exercices from a 60 set in 3h|▶️|75|`Jun'24`|
 ||||||||
-|`🔢`|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently with a limited set of actions |✅|--|`Feb'24`|
-|`🌀`|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |✅|✅|`Feb'24`|
-|`🧪`|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |✅|--|`May'24`|
+|`🔢`|[**push_swap**](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently with a limited set of actions |<img src="https://img.shields.io/badge/86-darkgreen">|--|`Feb'24`|
+|`🌀`|[**fractol**](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/110-darkgreen">|`Feb'24`|
+|`🧪`|[**pipex**](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |<img src="https://img.shields.io/badge/100-darkgreen">|--|`May'24`|
 ||||||||
-|`🍽`|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
-|`📦`|minishell|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
+|`🍽`|[**philosophers**](https://github.com/LLuisPP/42Cursus/tree/main/philosophers)|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
+|`📦`|[**minishell**](https://github.com/LLuisPP/42Cursus/tree/main/minishell)|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
 ||||||||
 |`🔖`|Rank 03 exam| :godmode:| get_next_line / ft_printfg|--|--|--|
 ||||||||
@@ -80,9 +80,9 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|`📱`|[VB3 - ONCE](https://github.com/LLuisPP/ONCE-Scalian-42Bcn)|✊🤞 IA hand recognizer translator. Awarded 🏆 2nd in ONCE/Scalian hackaton.|`May'24`|
-|`📱`|[Music_chords](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|`Mar'24`|
-|`📱`|[ColNotApp](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|`Jun'23`|
+|`📱`|[**VB3 - ONCE**](https://github.com/LLuisPP/ONCE-Scalian-42Bcn)|✊🤞 IA hand recognizer translator. Awarded 🏆 2nd in ONCE/Scalian hackaton.|`May'24`|
+|`📱`|[**Music_chords**](https://musicaltoolstabs.web.app/)|🎸 Small chord guessing game to promote a nice website.|`Mar'24`|
+|`📱`|[**ColNotApp**](https://colnotapp.web.app/)|📃 Collaborative notes app for personal use with loads of options.|`Jun'23`|
 
 </div>
 
@@ -94,8 +94,8 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|`🌐`|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 3D MoonQuake app - NASA Space App Challenge 2023 - SpaceRockers|`Oct'23`|
-|`🌐`|[Mario slots game](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|`Oct'22`|
+|`🌐`|[**MoonQuake**](https://moonquakev2.onrender.com/)|🌔 3D MoonQuake app - NASA Space App Challenge 2023 - SpaceRockers|`Oct'23`|
+|`🌐`|[**Mario slots game**](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|`Oct'22`|
 
 </div>
 
