@@ -1,69 +1,78 @@
 <img width="1277" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/b8bc15eb-5f0d-47fd-89d5-80f77a8a3e8c">
 
-Deeply exploring the fundamentals of programming to enhance my skills in app development, using frameworks and native coding.
-
-🌱 Constantly delving into C, Frameworks, Kotlin, Systems, Cybersecurity, Python, SQL... <br>
-🐧 LPIC-1 certified Linux systems administrator <br>
-🚀 On a mission to master and innovate
-
-## Actually learning or improving:
-
-<p align="center">
-    <a href="https://www.lpi.org/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" alt="linux" width="45" height="45"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/> </a>
-      <a href="https://www.javascriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<p></p>
+<div align="center"> 🐧 LPIC-1 | certified Linux system administrator    🌱 42 student | exploring the fundamentals of programming </div>
+<p></p>
 <div align="center">
-   
-|<div align="center">42 Programming School</div>|<div align="center">Expertise</div>|<div align="center">Stats</div>|
-|:---|:---|:---|
-|<img width="260" src="https://github.com/LLuisPP/42Cursus/assets/116104082/e4718526-3e02-4477-89c1-a9c6dad4a066" />|<img align="center" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=lluispp&hide=css,objective-c,scss,perl,html&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lluispp" />|<img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /><br><br><img width="131" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"><br>|
 
+<table>
+    <tr>
+        <td align="center">Tecnologies</td>
+        <td align="center">Working ethics</td>
+        <td align="center">Stats</td>
+    </tr>
+    <tr>
+        <td align="left">
+            <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/>
+            <img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" alt="linux" width="45" height="45"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </td>
+        <td align="center">
+            <img width="125" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
+        </td>
+        <td align="center">
+            <img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /> <br>
+            <img align="center" src="https://img.shields.io/github/stars/LLuisPP?style=social"> 
+        </td>
+    </tr>
+</table>
+   
 </div>
 
 </p>
+<p></p>
 
+***
 
-## Projects
+## Software Development:
 
-<h3 align="left">Software Development:</h3>
-
-- **[Cursus](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 programming School, Projects Overview:
+- **[42 - Common Core Cursus](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 programming School, Projects Overview:  <img align="right" src="https://img.shields.io/badge/Status-On%20going-darkgreen"> <br>
 
 <div align="center">
 
-||Project|Lvl|Description|100|125|Date|
+||Project|Lvl|Description|`100`|`125`|Date|
 |:---|---|:---|:---|:---|:---|---|
-|📖|[libft](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| A project aimed at replicating essential functions from the C library |✅|✅|Sep'23|
+|`📖`|[**libft**](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| Replicating essential functions from the basic C library |✅|✅|`Sep'23`|
 ||||||||
-|🐧|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine |✅|--|Oct'23|
-|🖨|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C|✅|--|Nov'23|
-|📝|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |✅|✅|Dic'23|
+|`🐧`|[born2beRoot](https://github.com/LLuisPP/42Cursus/tree/main/born2beroot)|:hurtrealbad:| Setting up and configuration of a linux virtual machine |✅|--|`Oct'23`|
+|`🖨`|[ft_printf](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C |✅|--|`Nov'23`|
+|`📝`|[get_next_line](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |✅|✅|`Dic'23`|
 ||||||||
-|🔖|Rank 02 exam| :godmode:|Test to proof your learning|▶️|50|May'24|
+|`🔖`|Rank 02 exam| :godmode:|Test to proof your learning|▶️|75|`Jun'24`|
 ||||||||
-|🔢|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently using a limited set of instructions |✅|--|Feb'24|
-|🌀|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |✅|✅|Feb'24|
-|➰|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |✅|--|May'24|
+|`🔢`|[push_swap](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently with a limited set of actions |✅|--|`Feb'24`|
+|`🌀`|[fractol](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |✅|✅|`Feb'24`|
+|`🧪`|[pipex](https://github.com/LLuisPP/42Cursus/tree/main/pipex)|:finnadie:| A project to manage child processes with forks and threads |✅|--|`May'24`|
 ||||||||
-|🍽|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
-|📦|minishell|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
+|`🍽`|philosophers|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
+|`📦`|minishell|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
 ||||||||
 
 </div>
 
 <p>
+    
+***
 
-<h3 align="left">App Development:</h3>
+<h3 align="left">App Development:<img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue"> </h3>
 
 <div align="center">
 
@@ -75,7 +84,9 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 
 </div>
 
-<h3 align="left">Web Development:</h3>
+***
+
+<h3 align="left">Web Development: <img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"></h3> 
 
 <div align="center">
 
@@ -86,7 +97,7 @@ Deeply exploring the fundamentals of programming to enhance my skills in app dev
 
 </div>
 
-- Fast views:
+- Samples:
 
 <div align="center">
 
