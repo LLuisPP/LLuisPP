@@ -92,7 +92,7 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|`🌐`|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 Participating project at global NASA Space App Challenge 2023 - SpaceRockers Team|`Oct'23`|
+|`🌐`|[MoonQuake](https://moonquakev2.onrender.com/)|🌔 3D MoonQuake app - NASA Space App Challenge 2023 - SpaceRockers|`Oct'23`|
 |`🌐`|[Mario slots game](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|`Oct'22`|
 
 </div>
