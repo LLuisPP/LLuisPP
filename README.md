@@ -74,7 +74,7 @@
     
 ***
 
-<h3 align="left">App Development:<img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue"> </h3>
+## App Development: <img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue">
 
 <div align="center">
 
@@ -88,7 +88,7 @@
 
 ***
 
-<h3 align="left">Web Development: <img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"></h3> 
+## Web Development: <img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"> 
 
 <div align="center">
 
