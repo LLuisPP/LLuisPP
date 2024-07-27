@@ -65,7 +65,7 @@
 |`🍽`|[**philosophers**](https://github.com/LLuisPP/42Cursus/tree/main/philosophers)|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
 |`📦`|[**minishell**](https://github.com/LLuisPP/42Cursus/tree/main/minishell)|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
 ||||||||
-|`🔖`|[**rank 03 exam**](https://github.com/LLuisPP/42-Exams-rank03)| :godmode:| get_next_line / ft_printfg|▶️|--|--|
+|`🔖`|[**rank 03 exam**](https://github.com/LLuisPP/42-Exams-rank03)| :godmode:| One random program between get_next_line & ft_printf |▶️|--|--|
 ||||||||
 
 </div>
