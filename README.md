@@ -44,7 +44,7 @@
 
 ## Software Development:
 
-- **[42 - Common Core Cursus](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview: <img align="center" src="https://img.shields.io/badge/Level_3.21-lightgreen"> <img align="right" src="https://img.shields.io/badge/Status-On%20going-darkgreen"> <br>
+- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview: <img align="center" src="https://img.shields.io/badge/Level_3.21-lightgreen"> <img align="right" src="https://img.shields.io/badge/Status-On%20going-darkgreen"> <br>
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 |`🖨`|[**ft_printf**](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)|:rage2:| Implementation of the printf function in C |<img src="https://img.shields.io/badge/100-darkgreen">|--|`Nov'23`|
 |`📝`|[**get_next_line**](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)|:rage4:| A utility to read from a file descriptor line by line |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/125-darkgreen">|`Dic'23`|
 ||||||||
-|`🔖`|[**rank02-exam**](https://github.com/LLuisPP/42-Exams/tree/main/rank02)| :godmode:| 4 ex from a 57 set to earn 100 pts, 25 each in 3h or less |<img src="https://img.shields.io/badge/100-darkgreen">|--|`Jul'24`|
+|`🔖`|[**rank 02 exam**](https://github.com/LLuisPP/42-Exams/tree/main/rank02)| :godmode:| 4 ex from a 57 set to earn 100 pts, 25 each in 3h or less |<img src="https://img.shields.io/badge/100-darkgreen">|--|`Jul'24`|
 ||||||||
 |`🔢`|[**push_swap**](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)|:feelsgood:| Sort numbers in a stack efficiently with a limited set of actions |<img src="https://img.shields.io/badge/86-darkgreen">|--|`Feb'24`|
 |`🌀`|[**fractol**](https://github.com/LLuisPP/42Cursus/tree/main/fractol)|:goberserk:| Dive into 2D fractal generator with this project |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/110-darkgreen">|`Feb'24`|
@@ -65,7 +65,7 @@
 |`🍽`|[**philosophers**](https://github.com/LLuisPP/42Cursus/tree/main/philosophers)|:finnadie:| Handle threads and proceses to feed the Philosophers feast |▶️|--|--|
 |`📦`|[**minishell**](https://github.com/LLuisPP/42Cursus/tree/main/minishell)|:finnadie:| Replicate a bash terminal with complete behavior |▶️|--|--|
 ||||||||
-|`🔖`|Rank 03 exam| :godmode:| get_next_line / ft_printfg|▶️|--|--|
+|`🔖`|[**rank 03 exam**](https://github.com/LLuisPP/42-Exams-rank03)| :godmode:| get_next_line / ft_printfg|▶️|--|--|
 ||||||||
 
 </div>
