@@ -44,7 +44,7 @@
 
 ## Software Development:
 
-- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <img align="right" src="https://img.shields.io/badge/Level-3.21-green"> <br>
+- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <img align="right" src="https://img.shields.io/badge/Level-3.21-darkgreen"> <br>
 
 <div align="center">
 
