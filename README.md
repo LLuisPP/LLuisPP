@@ -48,7 +48,7 @@
 
 <div align="center">
 
-|<a src="https://github.com/LLuisPP/42Cursus/tree/main/"> <img width="30" align="center" src="https://github.com/user-attachments/assets/ac216672-a141-48be-bc53-ae13dd35c799"></a>|Project|Lvl|Description|100|125|Date|
+|<a href="https://github.com/LLuisPP/42Cursus/tree/main/"> <img width="30" align="center" src="https://github.com/user-attachments/assets/ac216672-a141-48be-bc53-ae13dd35c799"></a>|Project|Lvl|Description|100|125|Date|
 |---|---|:---|:---|:---|:---|---|
 |`📖`|[**libft**](https://github.com/LLuisPP/42Cursus/tree/main/libft)|:suspect:| Replicating essential functions from the basic C library |<img src="https://img.shields.io/badge/100-darkgreen">|<img src="https://img.shields.io/badge/125-darkgreen">|`Sep'23`|
 ||||||||
