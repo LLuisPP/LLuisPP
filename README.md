@@ -1,4 +1,4 @@
-<a href="https://github.com/LLuisPP"><img width="1277" src="https://github.com/user-attachments/assets/01546f24-be64-434c-a080-099a0d6476f5"></a>
+<a href="https://github.com/LLuisPP"><img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
 
 <p></p>
 <div align="center"> 🐧 LPIC-1 | certified Linux system administrator    🌱 42 student | exploring the fundamentals of programming </div>
