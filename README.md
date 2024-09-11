@@ -88,6 +88,18 @@
 
 ***
 
+## Utility tools <img align="right" src="https://img.shields.io/badge/Status-Random-white"> 
+
+<div align="center">
+
+||Link|Description|Date|
+|---|---|:---|---|
+|`💻`|[**Deadlines42**](https://github.com/LLuisPP/deadlines42)|💀 Deadlines 42 ⌛ - Calculate your 42 Cursus milestones - side project|`Sep'24`|
+
+</div>
+
+***
+
 ## Web Development: <img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"> 
 
 <div align="center">
