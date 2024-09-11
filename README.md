@@ -88,7 +88,7 @@
 
 ***
 
-## Utility tools <img align="right" src="https://img.shields.io/badge/Status-Random-white"> 
+## Other software <img align="right" src="https://img.shields.io/badge/Status-Random-white"> 
 
 <div align="center">
 
