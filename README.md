@@ -29,7 +29,7 @@
             <img width="125" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
         </td>
         <td align="center">
-            <img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=0eb437&style=flat" alt="lluispp" /> <br>
+            <img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=005700&style=flat" alt="lluispp" /> <br>
             <img align="center" src="https://img.shields.io/github/stars/LLuisPP?style=social"> 
         </td>
     </tr>
@@ -42,7 +42,7 @@
 
 ***
 
-## Software Development:
+## Software Development: <img align="right" src="https://img.shields.io/badge/Status-Active-darkgreen">
 
 - **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <img align="right" src="https://img.shields.io/badge/Level-3.80-darkgreen"> <br>
 
