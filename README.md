@@ -48,7 +48,7 @@
 
 <div align="center">
 <table>
-  <td rowspan="4"><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="200" align="center" src="https://github.com/user-attachments/assets/a13492f8-ed80-4d05-996c-9752a4427a32"></a><br><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="200" align="center" src="https://github.com/user-attachments/assets/2d7e0e6c-d78b-41d2-9207-996469406a5d"></a><br><img align="right" src="https://img.shields.io/badge/Level-3.80-darkgreen">
+  <td rowspan="4"><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="200" align="center" src="https://github.com/user-attachments/assets/a13492f8-ed80-4d05-996c-9752a4427a32"></a><br><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="200" align="center" src="https://github.com/user-attachments/assets/2d7e0e6c-d78b-41d2-9207-996469406a5d"></a>
   </td>
   <tr>
     <td align="center"> 0 </td>
