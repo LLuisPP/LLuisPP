@@ -42,7 +42,7 @@
 
 ***
 
-## Software Development: <img align="right" src="https://img.shields.io/badge/Status-Active-darkgreen">
+## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Active-darkgreen"></a>
 
 - **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-3.80-darkgreen"></a> <br>
 
@@ -126,7 +126,7 @@
     
 ***
 
-## App Development: <img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue">
+## App Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue"></a>
 
 <div align="center">
 
@@ -140,7 +140,7 @@
 
 ***
 
-## Other software <img align="right" src="https://img.shields.io/badge/Status-Random-white"> 
+## Other software <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Random-white"></a> 
 
 <div align="center">
 
@@ -152,7 +152,7 @@
 
 ***
 
-## Web Development: <img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"> 
+## Web Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Stand%20by-yellow"> </a>
 
 <div align="center">
 
