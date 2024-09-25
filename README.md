@@ -146,7 +146,7 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|`💻`|[**Deadlines42**](https://github.com/LLuisPP/deadlines42)|💀 Deadlines 42 ⌛ - Calculate your 42 Cursus milestones - side project|`Sep'24`|
+|`💻`|[**Deadlines42 Public**](https://github.com/LLuisPP/deadlines42Public)|💀 Deadlines 42 ⌛ - Calculate your 42 Cursus milestones - side project|`Sep'24`|
 
 </div>
 
