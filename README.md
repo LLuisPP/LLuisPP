@@ -158,6 +158,7 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
+|`🌐`|[**ChroniclesOfExoplanets**](https://github.com/LLuisPP/NASAChroniclesOfExoplanet)| 🪐🔭 Chronicles of exoplanets - NASA Space App Challenge 2024 - |`Oct'24`|
 |`🌐`|[**MoonQuake**](https://moonquakev2.onrender.com/)|🌔 3D MoonQuake app - NASA Space App Challenge 2023 - SpaceRockers|`Oct'23`|
 |`🌐`|[**Mario slots game**](https://marioslotmachine.onrender.com/)|🎰 My first web page, a Mario Bros based slot machine game|`Oct'22`|
 
