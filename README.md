@@ -1,6 +1,4 @@
 <a href="#"><img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
-![tbanner4](https://github.com/user-attachments/assets/9ef87f48-bb4f-43b0-845f-431cc8377107)
-![tbanner5](https://github.com/user-attachments/assets/a04841eb-4df7-4595-9f49-5d31ad4d8e85)
 
 <p></p>
 <div align="center"> 🐧 LPIC-1 | certified Linux system administrator    🌱 42 student | exploring the fundamentals of programming </div>
