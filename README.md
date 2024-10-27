@@ -191,9 +191,9 @@
     <th align="center" colspan="3">Web pages</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://moonquakev2.onrender.com/"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></a></td>
+    <td align="center"><a target="_blank" href="https://moonquakev2.onrender.com/"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></a></td>
         <td rowspan="2" align="center">
-    <td align="center"><a href="https://marioslotmachine.onrender.com/"><img align="center" width="240" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/20e8ebf7-0fb0-4c2c-97d9-8250ddd9b21f"></a></td>
+    <td align="center"><a target="_blank" href="https://marioslotmachine.onrender.com/"><img align="center" width="240" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/20e8ebf7-0fb0-4c2c-97d9-8250ddd9b21f"></a></td>
   </tr>
 </table>
 </div>
