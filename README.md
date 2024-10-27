@@ -191,9 +191,14 @@
     <th align="center" colspan="3">Web pages</th>
   </tr>
   <tr>
-    <td align="center"><a target="_blank" href="https://moonquakev2.onrender.com/"><img align="center" width="280" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></a></td>
-        <td rowspan="2" align="center">
-    <td align="center"><a target="_blank" href="https://marioslotmachine.onrender.com/"><img align="center" width="240" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/20e8ebf7-0fb0-4c2c-97d9-8250ddd9b21f"></a></td>
+    <td align="center"><a target="_blank" href="https://github.com/LLuisPP/NASAChroniclesOfExoplanet"><img align="center" width="240" src="https://github.com/user-attachments/assets/f5291f28-535b-4ecd-a84e-acf9fefaf3ea"></a></td>
+        <td rowspan="1" align="center">
+    <td align="center"><a target="_blank" href="https://github.com/LLuisPP/NASAChroniclesOfExoplanet"><img align="center" width="240" src="https://github.com/user-attachments/assets/eaa97c0a-a05b-4a8f-92e7-320f1214636f"></a></td>
+  </tr>
+    <tr>
+    <td align="center"><a target="_blank" href="https://moonquakev2.onrender.com/"><img align="center" width="240" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/6934ddc1-e7c9-46ce-b8ff-1516aca42622"></a></td>
+        <td rowspan="1" align="center">
+    <td align="center"><a target="_blank" href="https://marioslotmachine.onrender.com/"><img align="center" width="230" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/20e8ebf7-0fb0-4c2c-97d9-8250ddd9b21f"></a></td>
   </tr>
 </table>
 </div>
