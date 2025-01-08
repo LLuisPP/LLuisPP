@@ -62,7 +62,7 @@
   <tr>
     <td align="center">
 
-[**libft**](https://github.com/LLuisPP/42Cursus/tree/main/libft)
+[**`libft`**](https://github.com/LLuisPP/42Cursus/tree/main/libft)
     </td>
     <td align="left">
 
