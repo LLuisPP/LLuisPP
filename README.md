@@ -1,5 +1,4 @@
-<a href="#"><img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
-
+<img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
 <p></p>
 <div align="center"> ☁️ Cloud N1 Tech | 🐧 LPIC-1 certified Linux system administrator | 🌱 42 student exploring the fundamentals of programming </div>
 <p></p>
@@ -20,7 +19,7 @@
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
             <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
             <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/ea003a04-bb70-49d1-9ab9-776727370758" alt="firebase" width="40" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -42,7 +41,7 @@
 
 ***
 
-## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Freezed-lightblue"></a>
+## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Freezed-white"></a>
 
 - **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-4.09-darkgreen"></a> <br>
 
@@ -126,7 +125,7 @@
     
 ***
 
-## App Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-blue"></a>
+## App Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Planning%20projects-lightblue"></a>
 
 <div align="center">
 
