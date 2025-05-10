@@ -42,9 +42,9 @@
 
 ***
 
-## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Active-darkgreen"></a>
+## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Freezed-lightblue"></a>
 
-- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-3.80-darkgreen"></a> <br>
+- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-4.09-darkgreen"></a> <br>
 
 <div align="center">
 <table>
