@@ -83,7 +83,7 @@
     <td align="left">
 
 [**`netpractice`**](https://github.com/LLuisPP/42Cursus/tree/main/netpractice)<br>
-[**`cub3d`**](https://github.com/LLuisPP/42Cursus/tree/main/cub3d)<br>
+[**`cub3D`**](https://github.com/LLuisPP/42Cursus/tree/main/cub3D)<br>
 [**`cpp0-4`**](https://github.com/LLuisPP/42Cursus/tree/main/cpp0-4)
     </td>
     <td align="left">
