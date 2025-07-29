@@ -146,7 +146,7 @@
 ||Link|Description|Date|
 |---|---|:---|---|
 |`💻`|[**Deadlines42 Public**](https://github.com/LLuisPP/deadlines42Public)|💀 Deadlines 42 ⌛ - Calculate your 42 Cursus milestones - side project|`Sep'24`|
-|`🧮`|[**Dec-BinIP calc Public**](https://github.com/LLuisPP/ip_calc_42/tree/main)|Transform Bin octects to Dec and viceversa from IPs|`May'25`|
+|`🧮`|[**Dec-BinIP calc Public**](https://github.com/LLuisPP/ip_calc_42/tree/main)|Transform Bin octects to Dec and viceversa from IPs - side project|`May'25`|
 
 </div>
 
