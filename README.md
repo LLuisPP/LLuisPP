@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td align="center">Tecnologies</td>
-        <td align="center">Working ethics</td>
+        <td align="center">Foundation ethics</td>
         <td align="center">Stats</td>
     </tr>
     <tr>
