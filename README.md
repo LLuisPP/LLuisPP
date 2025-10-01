@@ -17,7 +17,7 @@
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a>
+            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png" alt="ionic" width="40" height="40"/></a>
             <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
             <a href="#"><img src="https://github.com/user-attachments/assets/ea003a04-bb70-49d1-9ab9-776727370758" alt="firebase" width="40" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
