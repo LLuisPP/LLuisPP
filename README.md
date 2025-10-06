@@ -139,7 +139,7 @@
 
 ***
 
-## AI model integration: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Performed%20projects-lightblue"></a>
+## AI model integration: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Performed-blue"></a>
 
 <div align="center">
 
