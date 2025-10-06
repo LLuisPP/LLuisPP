@@ -139,6 +139,18 @@
 
 ***
 
+## AI model integration: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Performed%20projects-lightblue"></a>
+
+<div align="center">
+
+||Link|Description|Date|
+|---|---|:---|---|
+|`🌐📱`|[**SWAI - NASA SpaceApps Challenge**](https://github.com/LLuisPP/Hunting_for_Exoplanets_with_AI)|✊🤞 An IA sci-pack trained exoplanet classifier. |`Oct'25`|
+
+</div>
+
+***
+
 ## Other software <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Random-white"></a> 
 
 <div align="center">
