@@ -145,7 +145,7 @@
 
 ||Link|Description|Date|
 |---|---|:---|---|
-|`🌐📱`|[**SWAI - NASA SpaceApps Challenge**](https://github.com/LLuisPP/Hunting_for_Exoplanets_with_AI)|✊🤞 An IA sci-pack trained exoplanet classifier. |`Oct'25`|
+|`🌐📱`|[**SWAI - NASA SpaceApps Challenge**](https://github.com/LLuisPP/Hunting_for_Exoplanets_with_AI)|✊🤞 An IA sci-kit trained exoplanet classifier. |`Oct'25`|
 
 </div>
 
