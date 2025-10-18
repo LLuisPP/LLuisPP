@@ -14,7 +14,8 @@
         <td align="left">
             <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/></a>
             <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" alt="linux" width="45" height="45"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/883a8fd1-59b3-4142-b2ea-01312fa8544f" alt="c" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/a84a60bd-a3c5-4e74-b1be-82ed413048f4" alt="c" width="40" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
             <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png" alt="ionic" width="40" height="40"/></a>
