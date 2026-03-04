@@ -17,10 +17,10 @@
             <a href="#"><img src="https://github.com/user-attachments/assets/883a8fd1-59b3-4142-b2ea-01312fa8544f" alt="c" width="36" height="40"/></a>
             <a href="#"><img src="https://github.com/user-attachments/assets/a84a60bd-a3c5-4e74-b1be-82ed413048f4" alt="c" width="36" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/501b2ee8-9b8a-4483-8ec1-1a7e6c80fb7d" alt="docker" width="40" height="40"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
             <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png" alt="ionic" width="40" height="40"/></a>
             <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-            <a href="#"><img src="https://github.com/user-attachments/assets/ea003a04-bb70-49d1-9ab9-776727370758" alt="firebase" width="40" height="40"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
             <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/></a>
             <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
