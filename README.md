@@ -1,6 +1,6 @@
 <a href="#"><img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
 <p></p>
-<div align="center"> ☁️ Cloud N1 Tech | 🐧 LPIC-1 certified Linux system administrator | 🌱 42 student exploring the fundamentals of programming </div>
+<div align="center"> ☁️ Cloud N1.5 Tech | 🐧 LPIC-1 certified Linux system administrator | 🌱 42 student exploring the fundamentals of programming </div>
 <p></p>
 <div align="center">
 
