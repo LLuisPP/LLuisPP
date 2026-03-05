@@ -89,9 +89,9 @@
     </td>
     <td align="left">
 
-[**`ft_irc`**]()<br>
+[**`ft_irc`**](https://github.com/LLuisPP/42Cursus/tree/main/ft_irc)<br>
 [**`inception`**](https://github.com/LLuisPP/42Cursus/tree/main/inception)<br>
-[**`cpp5-9`**]()
+[**`cpp5-9`**](https://github.com/LLuisPP/42Cursus/tree/main/cpp4-9)
     </td>
     <td align="left">
 
@@ -112,7 +112,7 @@
 [**`rank04`**](https://github.com/LLuisPP/42-exams-rank04)</td>
 <td>
       
-[**`rank05`**]()</td>
+[**`rank05`**](https://github.com/LLuisPP/42-exams-rank05)</td>
 <td>
   
 [**`rank06`**]()</td>
