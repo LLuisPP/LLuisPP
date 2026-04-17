@@ -12,25 +12,32 @@
     </tr>
     <tr>
         <td align="left">
-            <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" alt="linux" width="40" height="40"/></a>
-            <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" alt="linux" width="45" height="45"/></a>
-            <a href="#"><img src="https://github.com/user-attachments/assets/883a8fd1-59b3-4142-b2ea-01312fa8544f" alt="c" width="36" height="40"/></a>
-            <a href="#"><img src="https://github.com/user-attachments/assets/a84a60bd-a3c5-4e74-b1be-82ed413048f4" alt="c" width="36" height="40"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-            <a href="#"><img src="https://github.com/user-attachments/assets/501b2ee8-9b8a-4483-8ec1-1a7e6c80fb7d" alt="docker" width="40" height="40"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png" alt="ionic" width="40" height="40"/></a>
-            <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/></a>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+            <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/eb5ba8b0-5bb8-49d3-aefb-9fbd3886e8d5" width="40"/></a>
+            <a href="#"><img src="https://github.com/LLuisPP/LLuisPP/assets/116104082/900e9972-6a63-4ebc-8f28-362e1841d77f" width="45"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/883a8fd1-59b3-4142-b2ea-01312fa8544f" width="36"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/a84a60bd-a3c5-4e74-b1be-82ed413048f4" width="36"/></a>
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
+            <a href="#"><img src="https://github.com/user-attachments/assets/501b2ee8-9b8a-4483-8ec1-1a7e6c80fb7d" width="40"/></a>
+            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40"/></a>
+            <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/LogoIonic.png" width="40"/></a>
+            <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/></a>
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/></a>
+            <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
         </td>
         <td align="center">
-            <a href="#"><img width="125" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"></a>
+            <a href="#">
+                <img width="125" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683">
+            </a>
         </td>
         <td align="center">
-            <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=005700&style=flat" alt="lluispp" /></a> <br>
-            <a href="#"><img align="center" src="https://img.shields.io/github/stars/LLuisPP?style=social"></a> 
+            <a href="#">
+                <img src="https://komarev.com/ghpvc/?username=lluispp&label=Profile%20views&color=005700&style=flat"/>
+            </a>
+            <br>
+            <a href="#">
+                <img src="https://img.shields.io/github/stars/LLuisPP?style=social">
+            </a>
         </td>
     </tr>
 </table>
