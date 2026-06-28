@@ -1,6 +1,6 @@
 <a href="#"><img width="1277" src="https://github.com/user-attachments/assets/080f8f27-ae42-4d3a-ae29-9251053b14fc"></a>
 <p></p>
-<div align="center"> ☁️ Cloud N1.5 Tech | 🐧 LPIC-1 certified Linux system administrator | 🌱 42 student exploring the fundamentals of programming </div>
+<div align="center"> ☁️ Cloud N1.5 Tech | 🐧 LPIC-1 certified Linux system administrator | 🌱 exploring the fundamentals of programming </div>
 <p></p>
 <div align="center">
 
@@ -49,7 +49,7 @@
 
 ***
 
-## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-On%20Going-darkgreen"></a>
+## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-Blackholed-darkred"></a>
 
 - **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-8.52-darkgreen"></a> <br>
 
